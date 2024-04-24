@@ -92,7 +92,7 @@
 - **a)** Todos los filtros son opcionales, excepto cuenta. Pero si se especifica solo el "mes" y no el "año", la API debe indicar claramente este requerimiento.
 - **b)** Si se especifican más de un filtro, deben funcionar en conjunto.
 - **c)** Se deben listar todas las operaciones correspondientes según los filtros aplicados.
-- **d)** Unión de los resultados tanto de las transferencias como de los pagos, dado que ambos están relacionados a la cuenta.
+- **d)** Unión de los resultados tanto de las transferencias como de los pagos, depositos, extracciones, dado que ambos están relacionados a la cuenta.
 
 ## Criterios Generales
 
